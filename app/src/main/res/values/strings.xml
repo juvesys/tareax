@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tarearecicleviwe</string>
+    <string name="nombre">Juvenal Perez Alvarez</string>
+    <string name="telefono">7821386596</string>
+    <string name="email">juvesys@gmail.com</string>
+    <string name="pnombre">nombre</string>
+    <string name="ptelefono">telefono</string>
+    <string name="pmail">email</string>
+</resources>
